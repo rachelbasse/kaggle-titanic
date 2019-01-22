@@ -45,5 +45,5 @@ Over-sampling tended to slightly outperform class-weighting for decision trees; 
 
 - Accuracy Score: 0.78468
 - Preprocessing: Manual binning, imputed missing data, derived features, more feature selection, categorical features one-hot encoded, classes balanced via oversampling minority.
-- Model: scikit-learn Decision Tree Classifier, tuned hyperparams.
+- Model: scikit-learn decision tree classifier, tuned hyperparams.
 - Commit: 891c6637e78b840514120f98398d83ea683585d6
